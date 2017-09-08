@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullZoomAlphaView">
+        <attr name="pzav_sensitive" format="float" />
+        <attr name="pzav_isZoomEnable" format="boolean" />
+        <attr name="pzav_isParallax" format="boolean" />
+        <attr name="pzav_zoomTime" format="integer" />
+    </declare-styleable>
+</resources>
